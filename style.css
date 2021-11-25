@@ -37,7 +37,7 @@ html {
 }
 .nav-bar .brand a {
 	font-family: 'Flash Back - Demo', sans-serif;
-	font-size: 3rem;
+	font-size: 4rem;
 	color: white;
 }
 .nav-bar .nav-list {
@@ -51,9 +51,9 @@ html {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height: 60px;
-	width: 60px;
-	transition: .6s ease transform;
+	height: 40px;
+	width: 40px;
+	transition: .3s ease transform;
 	cursor: pointer;
 }
 .nav-bar .nav-list .hamburger.active {
